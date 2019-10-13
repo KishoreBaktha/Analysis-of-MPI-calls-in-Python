@@ -1,6 +1,6 @@
 # project
 
-For running python codes on beskow- <br />
+For running python codes on beskow(supercomputer)- <br />
 1)Login to beskow <br />
  2)Allocate required nodes <br />
  Type following commands- <br />
